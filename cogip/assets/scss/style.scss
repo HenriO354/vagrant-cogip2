@@ -1,0 +1,19 @@
+//This is the SCSS file for configuring the views
+body {
+    background-color: lightgrey;
+}
+
+footer {
+    background-color: #f7b36e;
+    position:absolute;
+    margin-bottom: calc(100vh-100px);
+
+    img {
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+        vertical-align:middle;
+
+
+    }
+}
